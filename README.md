@@ -1,6 +1,6 @@
 https://github.com/SkalskaPaulina/project-react-2
 
-Netlify: 
+Netlify:
 https://fc-react-02.netlify.app
 
 
