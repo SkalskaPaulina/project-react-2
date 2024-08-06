@@ -1,6 +1,8 @@
-https://github.com/SkalskaPaulina/react-02/
+https://github.com/SkalskaPaulina/project-react-2
 
-Netlify: https://fc-react-02.netlify.app
+Netlify: 
+https://fc-react-02.netlify.app
+
 
 
 
