@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from '../logo.png';
 import './Header.css';
+import logo from '../logo.png';
 
 interface HeaderProps {
 	readonly balance: number;
